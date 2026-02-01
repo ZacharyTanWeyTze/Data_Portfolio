@@ -13,3 +13,7 @@ This is a project using a worldwide layoffs dataset.
 # Project 3: Databricks End To End?
 TBA
 Create a dashboard. Specifically on emissions. Breakdown of things like: where emissions are coming from in US, where the most emissions are coming from (which states and counties), in general as a population how much emissions we have per person or per area
+
+# Project 4: UiPath RPA Agentic Process
+Build an agentic process that reads new invoices from GDrive and extracts their details with AI and decides whether to approve automatically or send to human for review.
+Elemtns of UiPath in action - AI agents that are goal-driven, reaosn through context, and adapt as they work.
