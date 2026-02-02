@@ -15,6 +15,11 @@ TBA
 Create a dashboard. Specifically on emissions. Breakdown of things like: where emissions are coming from in US, where the most emissions are coming from (which states and counties), in general as a population how much emissions we have per person or per area
 
 # Project 4: UiPath RPA Agentic Process
+
+Build Your First UiPath Automation (AI + RPA + Human Approval)
+Kevin Stratvert
+https://www.youtube.com/watch?v=p0AfPMV3BWw
+
 Build an agentic process that reads new invoices from GDrive and extracts their details with AI and decides whether to approve automatically or send to human for review.
 Elemtns of UiPath in action - AI agents that are goal-driven, reaosn through context, and adapt as they work.
 
@@ -32,4 +37,12 @@ Rules for processing:
 
 You must only return the Status and Reason as specified in the output schema. Do not provide any additional explanations or free-form text in your response.
 
-User Prompt (where we enter actual data from invoice):
+User Prompt (where we pass in the actual data from the invoice):
+Process the following invoice data:
+
+Invoice Vendor Name: {{InvoiceVendorName}}
+Invoice Number: {{InvoiceNumber}}
+Invoice Date: {{InvoiceDate}}
+Invoice Amount: {{InvoiceAmount}}
+
+Apply the rules as specified in the system prompt and return only the Status and Reason in the required output format.
