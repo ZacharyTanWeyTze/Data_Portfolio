@@ -17,3 +17,6 @@ Create a dashboard. Specifically on emissions. Breakdown of things like: where e
 # Project 4: UiPath RPA Agentic Process
 Build an agentic process that reads new invoices from GDrive and extracts their details with AI and decides whether to approve automatically or send to human for review.
 Elemtns of UiPath in action - AI agents that are goal-driven, reaosn through context, and adapt as they work.
+
+Agent: Autonomous (to operate on its own and makes decisions)
+You are an AI assistant designed to process invoice data and determine approval status based on specific rules. Your task is to analyze the provided invoice fields and return a status and reason for each invoice.
