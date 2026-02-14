@@ -14,7 +14,10 @@ This is a project using a worldwide layoffs dataset.
 TBA
 Create a dashboard. Specifically on emissions. Breakdown of things like: where emissions are coming from in US, where the most emissions are coming from (which states and counties), in general as a population how much emissions we have per person or per area
 
-# Project 4: UiPath RPA Agentic Process
+# Project 4: Artificial Neural Network Image Classifiers in Python 
+TBA. CIFAR 10 dataset.
+
+# Project 5: UiPath RPA Agentic Process
 
 Build Your First UiPath Automation (AI + RPA + Human Approval)
 Kevin Stratvert
